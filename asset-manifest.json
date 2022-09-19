@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ElderCarrizalezUvalle/todo-machine/static/css/main.7c5fcfc0.css",
+    "main.js": "/ElderCarrizalezUvalle/todo-machine/static/js/main.04be16e2.js",
+    "index.html": "/ElderCarrizalezUvalle/todo-machine/index.html",
+    "main.7c5fcfc0.css.map": "/ElderCarrizalezUvalle/todo-machine/static/css/main.7c5fcfc0.css.map",
+    "main.04be16e2.js.map": "/ElderCarrizalezUvalle/todo-machine/static/js/main.04be16e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5fcfc0.css",
+    "static/js/main.04be16e2.js"
+  ]
+}
